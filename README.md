@@ -54,12 +54,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/amnxd/amnxd/output/snake.svg" alt="Snake animation" />
+//<img src="https://raw.githubusercontent.com/amnxd/amnxd/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/amnxd/count.svg?"  />
+ // <img src="https://profile-counter.glitch.me/amnxd/count.svg?"  />
 </div>
 
 ###
