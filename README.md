@@ -15,7 +15,8 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-  <h2 align="left">Tech Stack</h2>
+<h2 align="left">Tech Stack</h2>
+  
 ###
 
 <div align="left">
