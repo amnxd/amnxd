@@ -8,7 +8,7 @@
 </div>
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ###
 
