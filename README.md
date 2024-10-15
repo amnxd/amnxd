@@ -4,8 +4,8 @@
 ###
   <h2 align="left">Github Stats</h2>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amnxd&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amnxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=amnxd&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amnxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false" height="150" alt="languages graph"  />
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
