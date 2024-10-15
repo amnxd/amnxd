@@ -1,7 +1,8 @@
-  <h2 align="left">hi, i'm Aman. <br> a tech Geek</h2>
+  <h2 align="left">About me</h2>
+  Passionate about Linux and open source technology, with a preference for working with command-line interfaces.
 
 ###
-
+  <h2 align="left">Github Stats</h2>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amnxd&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amnxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
