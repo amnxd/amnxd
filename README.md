@@ -6,14 +6,13 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amnxd&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amnxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-
+<h2 align="left">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -55,8 +54,6 @@
 ###
 
 <br clear="both">
-
-
 
 ###
 
