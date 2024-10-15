@@ -1,4 +1,4 @@
-  <h2 align="left">hi, i'm Aman. a tech Geek</h2>
+  <h2 align="left">hi, i'm Aman. <br> a tech Geek</h2>
 
 ###
 
