@@ -11,8 +11,6 @@
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-###
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h2 align="left">Tech Stack</h2>
@@ -43,8 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
-  <h2 align="left">Socials</h2>
-###
+<h2 align="left">Socials</h2>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" (https://linkedin.in/amnxd) />
