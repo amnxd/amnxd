@@ -1,6 +1,5 @@
-  <h2 align="left">About me</h2>
-  Passionate about Linux and open source technology, with a preference for working with command-line interfaces.
-
+<h2 align="left">About me</h2>
+Dedicated GNU user, Linux and open source CLI enthusiast.
 ###
   <h2 align="left">Github Stats</h2>
 <div align="center">
