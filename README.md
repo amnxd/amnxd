@@ -10,7 +10,7 @@ Dedicated GNU user, Linux and open source CLI enthusiast.
 </div>
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 
 <h2 align="left">Tech Stack</h2>
 
