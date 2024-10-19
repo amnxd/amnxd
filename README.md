@@ -1,5 +1,6 @@
 <h2 align="left">About me</h2>
 GNU/Linux user. Open source CLI aficionado
+
 ###
   <h2 align="left">Github Stats</h2>
 <div align="center">
