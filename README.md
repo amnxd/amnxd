@@ -1,6 +1,5 @@
 <h2 align="left">About me</h2>
-Dedicated GNU user, Linux and open source CLI enthusiast.
-
+GNU/Linux user. Open source CLI aficionado
 ###
   <h2 align="left">Github Stats</h2>
 <div align="center">
