@@ -69,8 +69,6 @@ GNU/Linux user. Open source CLI aficionado
 
 ###
 
-<div align="center">
 [![](https://visitcount.itsvg.in/api?id=amnxd&icon=6&color=0)](https://visitcount.itsvg.in)
-</div>
 
 ###
