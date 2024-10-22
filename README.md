@@ -83,7 +83,7 @@
   <a href="mailto:aman@malevolent.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo" />
   </a>
-  <a href="https://tryhackme.com/p/xamnxd" target="_blank">
+  <a href="https://tryhackme.com/p/amnxd" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo" />
   </a>
 </div>
