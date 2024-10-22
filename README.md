@@ -3,6 +3,9 @@
 <div align="left">a GNU/Linux user, Open source & CLI aficionado</div>
 
 ##
+[![An image of @amnxd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amnxd)](https://holopin.io/@amnxd)
+
+##
   <h3 align="left">Github Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amnxd&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -19,14 +22,9 @@
 </div>
 
 ##
-[![An image of @amnxd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amnxd)](https://holopin.io/@amnxd)
-
-##
-
 <h3 align="left">Language and tools</h3>
 
 ##
-
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
