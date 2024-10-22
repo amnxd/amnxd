@@ -17,7 +17,7 @@
 ##
   <h3 align="left">Github Trophies</h3>
 
-![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 <div align="center">
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
