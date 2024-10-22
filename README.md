@@ -1,6 +1,5 @@
-<img align="right" height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=hi,+this+is+Aman.)](https://git.io/typing-svg)
+<img align="right" height="160" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
 <div align="left">a GNU/Linux user, Open source & CLI aficionado</div>
 
 ##
@@ -8,7 +7,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amnxd&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amnxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false" height="150" alt="languages graph"  />
-  <img align="right" height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
 </div>
 
 ##
