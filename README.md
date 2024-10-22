@@ -1,7 +1,9 @@
+<div align-"center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=hi!+I+am+Aman.)](https://git.io/typing-svg)
-<div align-"center">GNU/Linux user. Open source CLI aficionado</div>
+GNU/Linux user. Open source CLI aficionado <br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
 
 ###
   <h2 align="left">Github Stats</h2>
