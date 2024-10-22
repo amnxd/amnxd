@@ -1,11 +1,6 @@
 <div align="left">
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=hi,+I+am+Aman.)](https://git.io/typing-svg)
-
-GNU/Linux user. Open source CLI aficionado <br><br>
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+GNU/Linux user. Open source CLI aficionado
 </div>
 
 ###
