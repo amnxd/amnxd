@@ -63,7 +63,7 @@
   <img src="https://cdn.simpleicons.org/vim/019733" height="40" alt="vim logo"  />
 </div>
 
-###
+##
 
 <h3 align="left">Socials</h3>
 
@@ -88,7 +88,7 @@
   </a>
 </div>
 
-###
+##
 
 <br clear="both">
 
@@ -96,4 +96,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=amnxd&icon=6&color=0)](https://visitcount.itsvg.in)
 
-###
+##
