@@ -18,6 +18,10 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 </div>
 
+##
+[![An image of @amnxd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amnxd)](https://holopin.io/@amnxd)
+
+##
 
 <h3 align="left">Language and tools</h3>
 
