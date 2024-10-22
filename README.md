@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=hi,+I+am+Aman.)](https://git.io/typing-svg)
-<div align="left">GNU/Linux user. Open source CLI aficionado
-</div>
+<div align="left">GNU/Linux user. Open source CLI aficionado</div>
 
 ###
   <h3 align="left">Github Stats</h3>
