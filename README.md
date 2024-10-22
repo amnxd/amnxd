@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=hi,+this+is+Aman.)](https://git.io/typing-svg)
 <img align="right" height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=hi,+this+is+Aman.)](https://git.io/typing-svg)
 <div align="left">a GNU/Linux user, Open source & CLI aficionado</div>
 
 ##
