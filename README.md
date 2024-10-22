@@ -11,8 +11,9 @@ GNU/Linux user. Open source CLI aficionado
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-
+<div align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+</div>
 
 <h2 align="left">Tech Stack</h2>
 
