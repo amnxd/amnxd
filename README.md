@@ -40,6 +40,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <h2 align="left">Socials</h2>
 
 <div align="left">
