@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&duration=2200&pause=1000&color=1BFF18D5&background=FF000000&repeat=false&width=435&lines=%5B+root%40localhost+~+%5D+%24+whoami)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=35&duration=2200&pause=1000&color=F01375FA&background=FF000000&repeat=false&width=435&lines=hi%2C+I+am+Aman+Gupta)](https://git.io/typing-svg)<img align="right" height="160" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=100&size=30&duration=2200&pause=1000&color=B5FFD2E3&background=FF000000&repeat=false&width=435&lines=Aman+Gupta)](https://git.io/typing-svg)<img align="right" height="160" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
 <div align="left">GNU/Linux user, Open source & CLI aficionado</div>
 
 ##
