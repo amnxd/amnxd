@@ -9,7 +9,7 @@ GNU/Linux user. Open source CLI aficionado
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-## GitHub Trophies
+### GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=amnxd&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
 <div align="center">
 
