@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&lines=hi,+I+am+Aman.)](https://git.io/typing-svg)
 <div align="left">GNU/Linux user. Open source CLI aficionado</div>
 
-###
+##
   <h3 align="left">Github Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amnxd&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -21,7 +21,7 @@
 
 <h3 align="left">Language and tools</h3>
 
-###
+##
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
