@@ -8,7 +8,7 @@
 [![An image of @amnxd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amnxd)](https://holopin.io/@amnxd)
 
 ##
-  <h3 align="left">Github Stats</h3>
+<h3 align="left">Github Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=amnxd&locale=en&mode=daily&theme=shadow_green&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amnxd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_green&hide_border=false" height="150" alt="languages graph"  />
