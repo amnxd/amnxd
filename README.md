@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=350&size=30&duration=3000&pause=1000&color=B5FFD2E3&background=FF000000&repeat=false&width=435&lines=Aman+Gupta)](https://git.io/typing-svg)
 <img align="right" height="160" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0" />
-<div align="left">Learning Full Stack (web dev) MERN focused!</div>
+<div align="left">mern dev</div>
 
 ##
 [![An image of @amnxd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amnxd)](https://holopin.io/@amnxd)
