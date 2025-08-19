@@ -50,15 +50,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="40" alt="stackoverflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
